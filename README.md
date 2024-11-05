@@ -80,26 +80,6 @@ yarn build
 
 As a passionate Frontend Developer who truly values the open-source community, I'm thrilled to provide you with this project and grants you the freedom to use this boilerplate in both personal and commercial projects, encouraging a wide range of creative applications.
 
-## How to Show Your Support
-
-You can show your appreciation and support by ☕buying me a coffee☕.
-
-<p><a href="https://www.buymeacoffee.com/arenadaianadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p>
-
-Every coffee you buy is a small token of encouragement and helps me allocate more time and resources to this project. Your support is immensely valued and helps ensure the longevity and quality of this open-source endeavor.
-
-Thank you for being a part of this community and for considering supporting my work. Together, we can continue to build and innovate in the world of web development.
-
-## Contribute and Enhance
-
-Your contributions are invaluable! If you have ideas for improvements or encounter issues, please don't hesitate to:
-
-- [Create an Issue](https://github.com/DaianaArena/ultimate-frontend-template/issues/new/choose)
-- [Submit a Pull Request](https://github.com/DaianaArena/ultimate-frontend-template/compare)
-
-I greatly appreciate your support in making this project even better.
-
-## Thank You!
 
 Thank you for choosing the Vite+Tailwind+i18n Boilerplate. I hope it accelerates your web development journey and helps you build amazing projects. If you find it helpful, consider giving it a star ⭐️ on GitHub to show your support!
 
